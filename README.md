@@ -5,7 +5,7 @@ I'm a developer working on Rust and automation projects.
 ## 🛠 My Current Projects
 * **[HaloClock](https://github.com/jsemmel392/HaloClock)** - A Rust-based clock project with automated GitHub Actions.
 
-* **[Joe's rust utils ](https://jsemmel392.github.io/joes_rust_utils/)** My favorite rust utils
+* **[Joe's rust utils ](https://jsemmel392.github.io/joes_rust_utils/)** - My favorite rust utils
 * **Other Project Name** - Brief description of what it does.
 
 ## 🚀 About Me
